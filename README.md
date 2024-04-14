@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DasuVador
+- 👋 Hi, I’m @Abhimanyu Gautam
 - 👀 I’m interested in Data analytics.
 - 🌱 I’m currently learning data analysis.
 - 💞️ I’m looking to collaborate on any data analytics project.
