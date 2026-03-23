@@ -4,7 +4,7 @@
 
 📍 India | 📧 gautamabhimanyu07@gmail.com | 📞 +91 99996 96648
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/abhimanyu-gautam-9776833b9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/nyu-tam)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/dasuvador)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://dasuvador.github.io)
 
@@ -115,7 +115,7 @@ Time series analysis of pandemic effects on global economies using SQL and Pytho
 ## 📫 Let's Connect
 
 - 🌐 **Portfolio**: [dasuvador.github.io](https://dasuvador.github.io)
-- 💼 **LinkedIn**: [linkedin.com/in/abhimanyugautam](www.linkedin.com/in/abhimanyu-gautam-9776833b9)
+- 💼 **LinkedIn**: [linkedin.com/in/abhimanyugautam](www.linkedin.com/in/nyu-tam)
 - 📧 **Email**: gautamabhimanyu07@gmail.com
 - 📱 **Phone**: +91 99996 96648
 
