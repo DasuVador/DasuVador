@@ -1,29 +1,124 @@
-# Hi there, I'm Abhimanyu_Gautam 👋
+# 👋 Hi, I'm Abhimanyu Gautam
 
-## 🎓 MBA Data Analytics Student | Mizoram University
+**MBA Data Analytics Student | Process Engineer | Operations Leader**
 
-I'm passionate about transforming data into actionable business insights. Currently building my portfolio with real-world projects using Python, SQL, and data visualization.
+📍 India | 📧 gautamabhimanyu07@gmail.com | 📞 +91 99996 96648
 
-### 📊 Featured Project
-[![World Bank Economic Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DasuVador&repo=world-bank-economic-analysis&theme=radical)](https://github.com/DasuVador/world-bank-economic-analysis)
-
-### 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 📈 GitHub Stats
-![DasuVador's GitHub stats](https://github-readme-stats.vercel.app/api?username=DasuVador&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DasuVador&layout=compact&theme=radical)
-
-### 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DasuVador)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.gautamabhimanyu06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/abhimanyugautam)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/dasuvador)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://dasuvador.github.io)
 
 ---
 
-⭐️ From [DasuVador](https://github.com/DasuVador)
+## 🎯 About Me
+
+I'm a **Chemical Engineer turned Data Analytics professional** with hands-on experience in manufacturing operations, team leadership, and data-driven decision making. Currently pursuing my **MBA in Data Analytics** at Mizoram University, I combine domain expertise in industrial operations with modern data analytics skills to solve complex business problems.
+
+- 🔧 **Background**: Process Engineer (BOPET film line) with Kaizen recognition
+- 🏪 **Operations**: Team Leader at Blinkit dark store - inventory, workflow optimization
+- 📊 **Analytics**: SQL, Python, Tableau, Excel for business intelligence
+- 🎯 **Goal**: Data Analyst/Business Analyst role in manufacturing, e-commerce, or operations
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|----------|-------------|
+| **Programming** | Python, SQL, R |
+| **Data Analysis** | Pandas, NumPy, Statistics |
+| **Visualization** | Tableau, Plotly, Matplotlib, Excel |
+| **Databases** | MySQL, PostgreSQL |
+| **Tools** | SAP, MS Office, Git |
+| **Operations** | Process Optimization, Inventory Management, Kaizen, 6S |
+
+---
+
+## 📂 Featured Projects
+
+### 🌍 World Bank Economic Analysis
+[![GitHub](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/dasuvador/world-bank-analysis)
+[![Dashboard](https://img.shields.io/badge/Dashboard-View-green)](https://your-dashboard-link.com)
+
+Analyzed global economic trends using World Bank data (1960-2023). Built interactive dashboards with Plotly and performed statistical analysis to identify growth patterns.
+
+**Key Insight**: Countries investing >5% of GDP in education show 2.3% higher average growth over 20 years.
+
+*Tools: Python, Pandas, Plotly, SQL, Statistical Analysis*
+
+---
+
+### 📊 Sales Analytics Dashboard
+[![GitHub](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/dasuvador/sales-dashboard)
+
+Interactive dashboard analyzing sales trends, customer behavior, and product performance. Features include sales forecasting and regional performance metrics.
+
+*Tools: Python, Pandas, Plotly, Excel*
+
+---
+
+### 📈 COVID-19 Impact Analysis
+[![GitHub](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/dasuvador/covid-analysis)
+
+Time series analysis of pandemic effects on global economies using SQL and Python. Analyzed infection rates, economic indicators, and recovery patterns across different regions.
+
+*Tools: Python, SQL, Matplotlib, Statistical Analysis*
+
+---
+
+## 💼 Work Experience
+
+### 🏪 Team Leader – Blinkit (Dark Store Operations)
+*2023 – 2024*
+
+- Led daily dark store operations managing inventory, stock accuracy, and consignment handling
+- Improved workflow efficiency by **20%** through process evaluation and optimization
+- Trained and supervised **15+ staff members** on SOPs, safety protocols, and productivity methods
+- Managed shift planning, task allocation, and issue resolution in a fast-paced environment
+
+### ⚙️ Process Engineer (PLC) – GLS Polyfilms Pvt. Ltd., Rewari
+*2021 – 2023*
+
+- Operated and managed the **10.6m Dornier BOPET film line** ensuring consistent production quality
+- Optimized machine parameters to maintain product quality and operational stability
+- Received **Kaizen recognition** for continuous process improvements
+- Contributed to erection and commissioning of the Dornier 10.6m BOPET line
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| **MBA in Data Analytics** | Mizoram University | 2024 – Present |
+| **B.Tech Chemical Engineering** | DCRUST, Murthal | 2017 – 2021 |
+| **Google Data Analytics Certificate** | Coursera | 2024 |
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 📜 **Google Data Analytics Professional Certificate** – Coursera
+- 🏅 **Kaizen Award** – GLS Polyfilms (Process Improvement)
+- 🌱 **Zero Liquid Discharge (ZLD)** – IIChE Online Internship
+- 🏭 **Manufacturing Process Training** – Chiripal Industries Ltd.
+
+---
+
+## 📊 GitHub Stats
+
+![Abhimanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasuvador&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasuvador&layout=compact&theme=dark)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 **Portfolio**: [dasuvador.github.io](https://dasuvador.github.io)
+- 💼 **LinkedIn**: [linkedin.com/in/abhimanyugautam](https://linkedin.com/in/abhimanyugautam)
+- 📧 **Email**: gautamabhimanyu07@gmail.com
+- 📱 **Phone**: +91 99996 96648
+
+---
+
+*"Transforming raw data into actionable business insights"*
