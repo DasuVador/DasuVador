@@ -68,37 +68,7 @@ A beautiful, dark-themed web app to **discover, listen & share radio stations** 
 
 ---
 
-## 📂 Other Projects
 
-### 🌍 World Bank Economic Analysis
-[![GitHub](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/dasuvador/world-bank-analysis)
-[![Dashboard](https://img.shields.io/badge/Dashboard-View-green)](https://your-dashboard-link.com)
-
-Analyzed global economic trends using World Bank data (1960-2023). Built interactive dashboards with Plotly and performed statistical analysis to identify growth patterns.
-
-**Key Insight**: Countries investing >5% of GDP in education show 2.3% higher average growth over 20 years.
-
-*Tools: Python, Pandas, Plotly, SQL, Statistical Analysis*
-
----
-
-### 📊 Sales Analytics Dashboard
-[![GitHub](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/dasuvador/sales-dashboard)
-
-Interactive dashboard analyzing sales trends, customer behavior, and product performance. Features include sales forecasting and regional performance metrics.
-
-*Tools: Python, Pandas, Plotly, Excel*
-
----
-
-### 📈 COVID-19 Impact Analysis
-[![GitHub](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/dasuvador/covid-analysis)
-
-Time series analysis of pandemic effects on global economies using SQL and Python. Analyzed infection rates, economic indicators, and recovery patterns across different regions.
-
-*Tools: Python, SQL, Matplotlib, Statistical Analysis*
-
----
 
 ## 💼 Work Experience
 
