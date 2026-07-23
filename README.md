@@ -124,7 +124,7 @@ Time series analysis of pandemic effects on global economies using SQL and Pytho
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| **MBA in Data Analytics** | Mizoram University | 2024 – Present |
+| **MBA in Data Analytics** | Mizoram University | 2025 – Present |
 | **B.Tech Chemical Engineering** | DCRUST, Murthal | 2017 – 2021 |
 | **Google Data Analytics Certificate** | Coursera | 2024 |
 
