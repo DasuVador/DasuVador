@@ -34,7 +34,41 @@ I'm a **Chemical Engineer turned Data Analytics professional** with hands-on exp
 
 ---
 
-## 📂 Featured Projects
+## 🎵 Featured Project
+
+### 📻 [Toy-Box — Global Radio Directory](https://github.com/DasuVador/Toy-Box)
+
+<p align="center">
+  <a href="https://DasuVador.github.io/Toy-Box">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Click_Here-e94560?style=for-the-badge" alt="Live Demo">
+  </a>
+  <img src="https://img.shields.io/badge/🎵_Stations-50K+-533483?style=for-the-badge" alt="Stations">
+  <img src="https://img.shields.io/github/stars/DasuVador/Toy-Box?style=for-the-badge&color=ffd700" alt="Stars">
+</p>
+
+A beautiful, dark-themed web app to **discover, listen & share radio stations** from around the world. Built with vanilla JavaScript and powered by the Radio Browser API.
+
+**✨ Features:**
+- 🎵 Browse **50,000+ real radio stations** worldwide
+- ❤️ Save your **favorite stations** with one click
+- 📊 View **personal listening analytics** (top genres, countries, hourly charts)
+- 🕐 Track your **listening history**
+- ➕ **Add your own** radio streams
+- 🔍 **Search** by name, genre, or country
+- 📱 Fully **mobile responsive**
+- 🌙 Beautiful **dark theme**
+
+**🛠️ Tech Stack:** `HTML5` • `CSS3` • `Vanilla JavaScript` • `localStorage API` • `Radio Browser API` • `GitHub Pages`
+
+<p align="center">
+  <a href="https://github.com/DasuVador/Toy-Box">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DasuVador&repo=Toy-Box&theme=radical&show_owner=true" />
+  </a>
+</p>
+
+---
+
+## 📂 Other Projects
 
 ### 🌍 World Bank Economic Analysis
 [![GitHub](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/dasuvador/world-bank-analysis)
